@@ -73,8 +73,8 @@ entrada = pd.DataFrame({
 })
 
 # Fazer a previsão do preço
-preco_previsto = modelo.predict(entrada)
-print(f'Preço previsto: ${preco_previsto[0]:.2f}')
+y_pred = model.predict(X_test)
+print(f'Preço previsto: ${y_pred[0]:.2f}')
 ```
 
 ## 📩 Contato

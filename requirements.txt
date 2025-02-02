@@ -1,0 +1,1 @@
+echo "pandas\nnumpy\nscikit-learn\nmatplotlib\nseaborn\njoblib" > requirements.txt

@@ -1,4 +1,9 @@
 # Desafio de Ciência de Dados - Precificação de Aluguéis
+
+<div align="center">
+  <img src="cover.png" width="100%" alt="Capa do Projeto">
+</div>
+
 Repositório para resolução de problemas de negócios, análise de dados e aplicação de modelos preditivos diversos em machine learning.
 
 ## 📌 Sobre o Projeto
